@@ -1,0 +1,19 @@
+{
+  "name": "zooaloo",
+  "version": "1.0.0",
+  "description": "Be the best zookeeper than you can be!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultraflynn/zooaloo.git"
+  },
+  "author": "matthew.biggin@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultraflynn/zooaloo/issues"
+  },
+  "homepage": "https://github.com/ultraflynn/zooaloo#readme"
+}
