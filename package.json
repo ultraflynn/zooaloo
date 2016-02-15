@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ultraflynn/zooaloo/issues"
   },
-  "homepage": "https://github.com/ultraflynn/zooaloo#readme"
+  "homepage": "https://github.com/ultraflynn/zooaloo#readme",
+  "dependencies": {
+    "inquirer": "^0.12.0"
+  }
 }
