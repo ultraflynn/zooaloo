@@ -1,1 +1,5 @@
-require('./lib/zooaloo.js').start();
+const dependencies = {
+  inquirer: require("inquirer")
+}
+
+require("./lib/zooaloo.js")(dependencies).start()
